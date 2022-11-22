@@ -1,2 +1,2 @@
 # GenIL
-code for Genetic Imitation Learning by Reward Extrapolation
+Code for Genetic Imitation Learning by Reward Extrapolation
