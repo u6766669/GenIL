@@ -2,7 +2,7 @@
 
 ## Preparing
 
-Make sure mujoco is installed in advance.
+Make sure mujoco is installed in advance. Add directories ```mkdir ./log/ ./viz/
 
 ## Training
 
