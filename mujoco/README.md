@@ -2,7 +2,7 @@
 
 ## Preparing
 
-Make sure mujoco is installed in advance. Add directories ```mkdir ./log/ ./viz/```
+Make sure mujoco is installed in advance. Add directories ```mkdir ./log/ ./log/halfcheetah/ ./log/hopper/ ./viz/ ./viz/HalfCheetah-v2 ./viz/Hopper-v2```
 
 ## Training
 
