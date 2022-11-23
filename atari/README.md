@@ -6,7 +6,7 @@
 
 GenIL.py is the main file to run.
 
-First unzip the model file in directory /models.
+First create directory ```mkdir ./atari/eval/ ./atari/learned_models/ ./atari/learned_models/beamrider/ ./atari/learned_models/breakout/ ./atari/learned_models/space/ ./atari/viz/```.
 
 Here's an example of how to run it. 
 
